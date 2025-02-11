@@ -1,9 +1,9 @@
 ## Transportation Data Science Project (TDSP)
 TDSP is an initiative by the Northeast Big Data Innovation Hub (NEBDHub) and the National Student Data Corps (NSDC) in collaboration with the U.S. Department of Transportation. This project analyzes NYC OpenData transportation datasets to assess road safety and develop data-driven recommendations for improvement.
 
-View my project poster [here](https://github.com/TDSP/blob/main/TDSP_Poster.pdf).
+View my project poster [here](https://github.com/Uyenng/TDSP/blob/main/TDSP%20Poster.pdf).
 
-View my certificate of completion [here](./TDSP_certificate.pdf).
+View my certificate of completion [here](https://github.com/Uyenng/TDSP/blob/main/TDSP%20Certificate.pdf).
 
 ## Setup & Usage
 This code was developed in Google Colab and requires mounting Google Drive for data access. If running in Google Colab, no changes are needed.
